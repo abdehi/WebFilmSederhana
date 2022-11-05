@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WebFilmSederhana/static/css/main.4296d0ca.css",
-    "main.js": "/WebFilmSederhana/static/js/main.1be2ae73.js",
-    "static/js/787.13448508.chunk.js": "/WebFilmSederhana/static/js/787.13448508.chunk.js",
+    "main.js": "/WebFilmSederhana/static/js/main.97ce5610.js",
+    "static/js/787.e2256d11.chunk.js": "/WebFilmSederhana/static/js/787.e2256d11.chunk.js",
     "static/media/scifi.jpg": "/WebFilmSederhana/static/media/scifi.d7e33e800ac02f489fd8.jpg",
     "static/media/spiderman-cover.jpg": "/WebFilmSederhana/static/media/spiderman-cover.afa570da5a7651bc1753.jpg",
     "static/media/spiderman.jpg": "/WebFilmSederhana/static/media/spiderman.2d8e48db70fee2a9fbe9.jpg",
@@ -20,11 +20,11 @@
     "static/media/dune.jpg": "/WebFilmSederhana/static/media/dune.bf1854be9390dd5f2921.jpg",
     "index.html": "/WebFilmSederhana/index.html",
     "main.4296d0ca.css.map": "/WebFilmSederhana/static/css/main.4296d0ca.css.map",
-    "main.1be2ae73.js.map": "/WebFilmSederhana/static/js/main.1be2ae73.js.map",
-    "787.13448508.chunk.js.map": "/WebFilmSederhana/static/js/787.13448508.chunk.js.map"
+    "main.97ce5610.js.map": "/WebFilmSederhana/static/js/main.97ce5610.js.map",
+    "787.e2256d11.chunk.js.map": "/WebFilmSederhana/static/js/787.e2256d11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4296d0ca.css",
-    "static/js/main.1be2ae73.js"
+    "static/js/main.97ce5610.js"
   ]
 }
